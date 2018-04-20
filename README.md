@@ -9,3 +9,7 @@
 4. Streaming Option Pricing Dashboard
 
 5. AI/ML [Supreme](http://www.supremenewyork.com) brand buying [Bot](https://github.com/0x3W/randomScripts/blob/master/SupremeBot-v1.ipynb) that uses text mining and image analysis to recognize pieces of clothes, appropriate colour, selects size, and checksout in a lightening fast manner.
+
+An example of bot buying two items which are specified by name and colour (or picture), bot searches through links, identifies most similar to specified and checksout with autofill in under 5 seconds, set to run when drops occur with UNIX EPOCH time format.
+
+![](https://thumbs.gfycat.com/SmugShallowHarrierhawk-size_restricted.gif)
