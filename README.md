@@ -8,7 +8,7 @@
 
 4. Digital Epidemiology [Infections project](https://github.com/0x3W/MSc-Data-Science/blob/master/DE/1772953-HW1.ipynb) on Barbasi-Albert and Erdos-Renyi graphs
 
-5. AI/ML [Supreme](http://www.supremenewyork.com) brand buying [Bot](https://github.com/0x3W/randomScripts/blob/master/SupremeBot-v1.ipynb) that uses text mining and image analysis to recognize pieces of clothes, appropriate colour, selects size, and check out in a lightening fast manner.
+5. AI/ML [Supreme](http://www.supremenewyork.com) brand buying [Bot](https://github.com/0x3W/randomScripts/blob/master/Retail%20fashion%20ML%20Bot%20-%20Supreme.ipynb) that uses text mining and image analysis to recognize pieces of clothes, appropriate colour, selects size, and check out in a lightening fast manner.
 
 Bots performance with two prespecified items
 
